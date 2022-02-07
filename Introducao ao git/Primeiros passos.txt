@@ -1,0 +1,9 @@
+
+1- baixar o git na maquina, fazzer download
+
+
+2 - fazer um repositório no github
+
+3 - clonar a versão pelo git bash
+
+
